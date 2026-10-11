@@ -6,6 +6,8 @@ documentation is its partner program. **VeritaHire** reads employers' own career
 iCIMS, SmartRecruiters and more), so there is no board in between to close the door, and no stale copies: a job that
 leaves the employer's site is marked closed within about 36 hours, and every record says when it was last confirmed there.
 
+*VeritaHire is not affiliated with, endorsed by or sponsored by Indeed, LinkedIn or Glassdoor. Indeed, LinkedIn and Glassdoor are trademarks of their owners and are named here only to compare what each one offers developers.*
+
 - **No key** to start: search live jobs, read a whole posting, check whether any posting URL is still open, and get a
   **Competitive Hiring Report** for one healthcare, finance, IT, engineering, science, HR, legal or marketing role.
 - **One key** for the full feed: every live posting, cursor-paged, plus hiring velocity and employer profiles.

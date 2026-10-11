@@ -18,6 +18,7 @@ leaves the employer's site is marked closed within about 36 hours, and every rec
 - **Claude Code plugin:** [jobhunt](https://github.com/veritahire/jobhunt): your AI finds live jobs that fit your résumé
 - **career-ops plugin:** [career-ops-plugin-veritahire](https://github.com/veritahire/career-ops-plugin-veritahire)
 - **Daily data:** [us-job-openings-index](https://github.com/veritahire/us-job-openings-index), the US Job Openings Index as a CSV, updated every morning
+- **Daily job lists on GitHub:** [entry-level](https://github.com/veritahire/us-entry-level-jobs) · [internships](https://github.com/veritahire/us-internships) · [remote](https://github.com/veritahire/remote-jobs-us) · [nursing](https://github.com/veritahire/nursing-jobs-us) · [jobs that post pay](https://github.com/veritahire/jobs-with-pay-us), newest live US jobs, re-checked on employers' own sites
 
 ## Quickstart (no key)
 

@@ -2,7 +2,7 @@
 
 Looking for an **Indeed API**, a **LinkedIn jobs API** or a **Glassdoor API** to search job postings? LinkedIn's talent APIs
 are for posting jobs and taking applications through partner applicant-tracking systems, and Indeed's developer
-documentation is its partner program. **VeritaHire** reads **2.5 million+ live US jobs straight from the career sites of
+documentation is its partner program. **VeritaHire** reads **around 2.5 million live US jobs straight from the career sites of
 19,000+ employers** (Workday, Greenhouse, iCIMS, SmartRecruiters and more), so there is no board in between to close the door, and no stale copies: a job that
 leaves the employer's site is marked closed within about 36 hours, and every record says when it was last confirmed there.
 
